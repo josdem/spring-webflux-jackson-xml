@@ -18,4 +18,4 @@ gradle test
 
 #### Read this as reference:
 
-* WIP
+* https://josdem.io/techtalk/spring/spring_webflux_jaxb/

@@ -20,7 +20,7 @@ public class PersonController {
     return Mono.just(
             new Person("Jose",
                     "Morales",
-                    "30 Frank Lloyd Ann Arbor MI 48105"));
+                    "30 Frank Lloyd, Ann Arbor MI 48105"));
   }
 
 }
