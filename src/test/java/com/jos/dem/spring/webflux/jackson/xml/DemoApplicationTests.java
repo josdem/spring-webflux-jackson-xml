@@ -15,7 +15,7 @@ class DemoApplicationTests {
 	private WebTestClient webClient;
 
 	@Test
-	void contextLoads() {
+	void shouldGetPerson() {
 		webClient.get().uri("/")
 						.exchange()
 						.expectStatus().isOk()
