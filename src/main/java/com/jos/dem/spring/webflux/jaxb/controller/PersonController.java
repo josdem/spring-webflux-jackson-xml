@@ -1,6 +1,6 @@
-package com.jos.dem.spring.webflux.jackson.xml.controller;
+package com.jos.dem.spring.webflux.jaxb.jaxb.controller;
 
-import com.jos.dem.spring.webflux.jackson.xml.model.Person;
+import com.jos.dem.spring.webflux.jaxb.jaxb.model.Person;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;

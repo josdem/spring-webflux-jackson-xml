@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.jos.dem.spring.webflux.jackson.xml'
+group = 'com.jos.dem.spring.webflux.jaxb'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 

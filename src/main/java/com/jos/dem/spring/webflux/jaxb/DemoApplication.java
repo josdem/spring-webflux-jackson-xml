@@ -1,4 +1,4 @@
-package com.jos.dem.spring.webflux.jackson.xml;
+package com.jos.dem.spring.webflux.jaxb.jaxb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

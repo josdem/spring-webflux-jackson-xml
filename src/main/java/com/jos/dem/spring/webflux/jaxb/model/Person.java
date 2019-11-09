@@ -1,4 +1,4 @@
-package com.jos.dem.spring.webflux.jackson.xml.model;
+package com.jos.dem.spring.webflux.jaxb.jaxb.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
