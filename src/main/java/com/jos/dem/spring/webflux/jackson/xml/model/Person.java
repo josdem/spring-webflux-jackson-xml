@@ -1,5 +1,7 @@
 package com.jos.dem.spring.webflux.jackson.xml.model;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
 
 @Data
 @AllArgsConstructor
