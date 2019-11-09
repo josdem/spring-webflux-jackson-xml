@@ -7,6 +7,6 @@ i
 @XmlRootElement
 public class Device {
   private String name;
+  private String os;
   private String model;
-  private String imei;
 }
