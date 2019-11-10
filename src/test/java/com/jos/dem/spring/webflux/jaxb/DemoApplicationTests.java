@@ -25,7 +25,10 @@ class DemoApplicationTests {
 						.expectBody(Person.class)
 						.value(person -> person.getFirstName(), equalTo("Jose"))
 						.value(person -> person.getLastName(), equalTo("Morales"))
-						.value(person -> person.getAddress(), equalTo("30 Frank Lloyd, Ann Arbor MI 48105"));
+						.value(person -> person.getAddress(), equalTo("30 Frank Lloyd, Ann Arbor MI 48105"))
+						.value(person -> person.getDevice().getName(), equalTo("Pixel 3"))
+						.value(person -> person.getDevice().getOs(), equalTo("Android"))
+						.value(person -> person.getDevice().getModel(), equalTo("9 Pie"));
 	}
 
 }
