@@ -1,6 +1,6 @@
 package com.jos.dem.spring.webflux.jaxb;
 
-import com.jos.dem.spring.webflux.jaxb.jaxb.model.Person;
+import com.jos.dem.spring.webflux.jaxb.model.Person;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
